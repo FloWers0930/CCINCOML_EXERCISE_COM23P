@@ -1,0 +1,4 @@
+Read number from the user
+If number is even, display "even"
+Else, display "odd"
+End
